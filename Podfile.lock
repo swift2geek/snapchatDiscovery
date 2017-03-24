@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - TRMosaicLayout (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`)
+  - AlamofireImage (~> 3.1)
+  - TRMosaicLayout
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: b03b43cc381ec02eb9855085427186ef89055eef
+    :git: https://github.com/Alamofire/Alamofire.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4c2bf7fa03c4a626163606de0a417568c270575e
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  TRMosaicLayout: 1875505c48dd2877afd69a8bea7b4c1c63afa5b5
+
+PODFILE CHECKSUM: 757107f9372466cea5cf4f7ddbba563a25266209
+
+COCOAPODS: 1.1.1
